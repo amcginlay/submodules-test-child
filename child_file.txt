@@ -1,1 +1,4 @@
+The submodule was stamped as follows in the parent
+child @ 4886452
 
+THIS commit will move the HEAD forward with a new SHA but the parent will continue to point at the old SHA
